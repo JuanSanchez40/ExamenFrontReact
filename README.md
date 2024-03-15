@@ -19,3 +19,6 @@ yarn start
 ```
 
 Open [http://localhost:8081](http://localhost:8081)
+
+### user: admin
+### password: 12345678
